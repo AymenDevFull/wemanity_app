@@ -1,0 +1,50 @@
+{
+    "001": {
+        "01": "Batiment",
+        "02": "Menuiserie",
+        "03": "Chantier et Smart Home",
+        "04": "Outillage",
+        "05": "Cuisine",
+        "06": "Planchers et Revetements",
+        "07": "Salle de Bain",
+        "08": "Confort",
+        "09": "Jardin",
+        "10": "Quincaillerie",
+        "11": "Peinture",
+        "12": "Decoration",
+        "13": "Eclairage",
+        "14": "Hebergement"
+    },
+    "005": {
+        "01": "EDILIZIA",
+        "02": "FALEGNAMERIA",
+        "03": "CANTIERE E SMART HOME",
+        "04": "UTENSILERIA",
+        "05": "CUCINA",
+        "06": "PAVIMENTI E RIVESTIMENTI",
+        "07": "BAGNO",
+        "08": "COMFORT",
+        "09": "GIARDINO",
+        "10": "FERRAMENTA",
+        "11": "VERNICI",
+        "12": "DECORAZIONE",
+        "13": "ILLUMINAZIONE",
+        "14": "SISTEMAZIONE"
+    },
+    "053": {
+        "01": "Construction",
+        "02": "Joinery",
+        "03": "Yard and Smart Home",
+        "04": "Tools",
+        "05": "Kitchen",
+        "06": "Floors and Coatings",
+        "07": "Bathroom",
+        "08": "Comfort",
+        "09": "Garden",
+        "10": "Hardware",
+        "11": "Paint",
+        "12": "Decoration",
+        "13": "Lighting",
+        "14": "Arrangement"
+    }
+}

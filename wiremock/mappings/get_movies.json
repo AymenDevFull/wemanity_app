@@ -1,0 +1,16 @@
+
+{
+    "priority": 1,
+    "request": {
+        "method": "GET",
+        "url": "/movies"
+    },
+    "response": {
+        "status": 200,
+        "body": "[\n    {\n        \"title\": \"The Matrix\",\n        \"year\": 1999,\n        \"director\": \"The Wachowskis\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg\"\n    },\n    {\n        \"title\": \"Indiana Jones and the Last Crusade\",\n        \"year\": 1989,\n        \"director\": \"Steven Spielberg\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg\"\n    },\n    {\n        \"title\": \"Pulp Fiction\",\n        \"year\": 1994,\n        \"director\": \"Quentin Tarantino\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg\"\n    },\n    {\n        \"title\": \"Blade Runner\",\n        \"year\": 1982,\n        \"director\": \"Ridley Scott\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg\"\n    },\n    {\n        \"title\": \"The Godfather: Part II\",\n        \"year\": 1974,\n        \"director\": \"Francis Ford Coppola\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg\"\n    },\n    {\n        \"title\": \"Star Wars\",\n        \"year\": 1977,\n        \"director\": \"George Lucas\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg\"\n    },\n    {\n        \"title\": \"Spirited Away\",\n        \"year\": 2001,\n        \"director\": \"Hayao Miyazaki\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg\"\n    },\n    {\n        \"title\": \"Back to the Future\",\n        \"year\": 1985,\n        \"director\": \"Robert Zemeckis\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg\"\n    },\n    {\n        \"title\": \"Eternal Sunshine of the Spotless Mind\",\n        \"year\": 2004,\n        \"director\": \"Michel Gondry\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzyZoAN3QxhaeHvHzq1a67zHCAP.jpg\"\n    },\n    {\n        \"title\": \"The Shining\",\n        \"year\": 1980,\n        \"director\": \"Stanley Kubrick\",\n        \"posterUrl\": \"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dyRZE1GxbMI03HY8CweDXWHbVZg.jpg\"\n    }\n]",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "fixedDelayMilliseconds": 400
+    }
+}
